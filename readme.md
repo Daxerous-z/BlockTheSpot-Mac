@@ -65,7 +65,7 @@ bash <(curl -sSL https://raw.githubusercontent.com/Nuzair46/BlockTheSpot-Mac/mai
 - Run The following command in Terminal:
 
 ```
-bash <(curl -sSL https://raw.githubusercontent.com/Nuzair46/BlockTheSpot-Mac/main/install.sh) -U
+bash <(curl -sSL https://raw.githubusercontent.com/Daxerous-z/BlockTheSpot-Mac/main/install.sh) -U
 ```
 
 or
