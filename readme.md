@@ -1,6 +1,3 @@
-
-<p align="center">        
-  <a href="https://discord.gg/eYudMwgYtY"><img src="https://discord.com/api/guilds/807273906872123412/widget.png"></a>
 </p>
 
 <center>
