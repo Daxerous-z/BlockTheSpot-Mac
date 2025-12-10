@@ -1,5 +1,3 @@
-</p>
-
 <center>
     <h1 align="center">BlockTheSpot-Mac</h1>
     <h4 align="center">A multi-purpose adblocker and skip-bypass for the <strong>Spotify for MacOS</strong> </h4>
