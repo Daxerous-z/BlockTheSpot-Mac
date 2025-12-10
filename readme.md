@@ -16,10 +16,6 @@
 
 ---
 
-## We need collaborators.
-
-- We are running short of people who can collaborate and maintain this project. If you are good with bash scripting, please create an issue here or contact red.dev in discord.
-
 ### Features:
 
 - Blocks all banner/video/audio ads within the app
@@ -35,7 +31,7 @@
 - Run The following command in Terminal:
 
 ```
-bash <(curl -sSL https://raw.githubusercontent.com/Nuzair46/BlockTheSpot-Mac/main/install.sh)
+bash <(curl -sSL https://raw.githubusercontent.com/Daxerous-z/BlockTheSpot-Mac/main/install.sh)
 ```
 
 #### Note:
