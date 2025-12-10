@@ -8,7 +8,7 @@ command -v unzip >/dev/null || { echo -e "\nunzip was not found, exiting...\n" >
 command -v zip >/dev/null || { echo -e "\nzip was not found, exiting...\n" >&2; exit 1; }
 
 # Script flags
-APP_PATH="/Applications/Spotify.app"
+APP_PATH="/Users/1020458/Applications/Spotify.app"
 FORCE_FLAG='false'
 HIDE_PODCASTS_FLAG='false'
 PATH_FLAG='false'
